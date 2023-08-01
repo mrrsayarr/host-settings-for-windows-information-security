@@ -1,4 +1,4 @@
-
+# Aşağıdaki kayıtlar, gizlilik ihlali sırasındaki erişimleri yanıltmak ve önlemek amaçlıdır. C:\windows\system32\drivers\etc\hosts dosyası içinde bulunmalıdır.
 
 0.0.0.0	choice.microsoft.com
 0.0.0.0	choice.microsoft.com.nstac.net
